@@ -69,3 +69,7 @@ make -j$(nproc)
 ```shell
 ctest --test-dir build
 ```
+
+## refence
+
+[duckdb](https://github.com/duckdb/duckdb)
